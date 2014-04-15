@@ -62,15 +62,19 @@ struct tuple4
 
 struct stream_v
 {
+	u_int flags;
+	int len_third;
+	int dt_bg;//标示是否结束三次握手
 	int push_pkts_serv;
-	int init_win_bytes_clnt;
-	int init_win_bytes_serv;
-	int arg_seg_size_serv;
-	int act_data_pkt_clnt;
+	//int init_win_bytes_clnt;
+	//int init_win_bytes_serv;
+	//int arg_seg_size_serv;
+	//int act_data_pkt_clnt;
 	u_int serv_port;
 	int fir_plength_clnt;
 	int fir_sec_diff_clnt;
 	double now_time;
+	int pkt_number;
 };
 
 struct half_stream
@@ -161,9 +165,11 @@ void nids_register_ip_frag (void (*));
 void nids_unregister_ip_frag (void (*));
 void nids_register_ip (void (*));
 void nids_unregister_ip (void (*));
-void nids_register_tcp (void (*));
+//void nids_register_tcp (void (*));
+void nids_register_tcp(void (*)(tcp_stream*, void**));
+void nids_register_udp(void (*)(tuple4*, char*, int, ip*));
 void nids_unregister_tcp (void (*x));
-void nids_register_udp (void (*));
+//void nids_register_udp (void (*));
 void nids_unregister_udp (void (*));
 void nids_killtcp (struct tcp_stream *);
 void nids_discard (struct tcp_stream *, int);

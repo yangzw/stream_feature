@@ -1,0 +1,4472 @@
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.110 : 5353 ---> 224.0.0.251 : 5353
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.110 : 23263 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 13268 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 44214 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 51072 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 38575 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 49769 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 23263
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 13268
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 44214
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 38575
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 51072
+--------
+UDP: 192.168.1.110 : 18302 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 2057 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 42103 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 56012 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 14769 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 49769
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 18302
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 2057
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 42103
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 56012
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 14769
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 19760 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 50967 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 9886 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 19760
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 50967
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 9886
+--------
+UDP: 192.168.1.110 : 3332 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 30410 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 3332
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 30410
+--------
+UDP: 192.168.1.110 : 48811 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 12984 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 56522 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 12984
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 48811
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 56522
+--------
+UDP: 192.168.1.110 : 60235 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 63743 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 22116 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 60235
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 63743
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 22116
+--------
+UDP: 192.168.1.110 : 18725 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 18725
+--------
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:43959 <--- 203.208.37.9:80 : 80 : 1 : 0.000000
+891891
+fuck891891
+--------------------------------
+192.168.1.110:43959 <--- 203.208.37.9:80 : 80 : 2 : 0.000000
+404404
+服务器端接收数据
+--------------------------------
+192.168.1.110:43959 <--- 203.208.37.9:80 : 80 : 3 : 0.000000
+9001791
+--------------------------------
+192.168.1.110:43959 <--- 203.208.37.9:80 : 80 : 4 : 0.000000
+404808
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 36806 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 36806
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:52740 <--- 59.151.32.100:80 : 80 : 1 : 0.000000
+11731173
+fuck11731173
+--------------------------------
+192.168.1.110:52740 <--- 59.151.32.100:80 : 80 : 1 : 0.000000
+14401440
+--------------------------------
+192.168.1.110:52740 <--- 59.151.32.100:80 : 80 : 1 : 0.000000
+14402880
+--------------------------------
+192.168.1.110:52740 <--- 59.151.32.100:80 : 80 : 1 : 0.000000
+14404320
+--------------------------------
+192.168.1.110:52740 <--- 59.151.32.100:80 : 80 : 1 : 0.000000
+14405760
+--------------------------------
+192.168.1.110:52740 <--- 59.151.32.100:80 : 80 : 1 : 0.000000
+14407200
+--------------------------------
+192.168.1.110:52740 <--- 59.151.32.100:80 : 80 : 1 : 0.000000
+14408640
+over
+over
+over
+UDP: 192.168.1.110 : 31293 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 31293
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:57941 <--- 113.5.251.118:80 : 80 : 1 : 0.000000
+439439
+fuck439439
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:57941 <--- 113.5.251.118:80 : 80 : 1 : 0.000000
+14401440
+--------------------------------
+192.168.1.110:57941 <--- 113.5.251.118:80 : 80 : 1 : 0.000000
+14402880
+--------------------------------
+192.168.1.110:57941 <--- 113.5.251.118:80 : 80 : 1 : 0.000000
+402920
+--------------------------------
+192.168.1.110:57941 <--- 113.5.251.118:80 : 80 : 1 : 0.000000
+14404360
+--------------------------------
+192.168.1.110:57941 <--- 113.5.251.118:80 : 80 : 1 : 0.000000
+14405800
+--------------------------------
+192.168.1.110:57941 <--- 113.5.251.118:80 : 80 : 1 : 0.000000
+1295929
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 23887 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 23887
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:60438 <--- 59.151.32.102:80 : 80 : 1 : 0.000000
+11781178
+fuck11781178
+--------------------------------
+192.168.1.110:60438 <--- 59.151.32.102:80 : 80 : 2 : 0.000000
+746746
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:60439 <--- 59.151.32.102:80 : 80 : 1 : 0.000000
+11831183
+fuck11831183
+--------------------------------
+192.168.1.110:60439 <--- 59.151.32.102:80 : 80 : 2 : 0.000000
+629629
+UDP: 192.168.1.110 : 49586 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 48331 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 49586
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 48331
+--------
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:50510 <--- 59.151.32.34:80 : 80 : 1 : 0.000000
+12831283
+fuck12831283
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:45188 <--- 59.151.32.31:80 : 80 : 1 : 0.000000
+11631163
+fuck11631163
+--------------------------------
+192.168.1.110:45188 <--- 59.151.32.31:80 : 80 : 2 : 0.000000
+659659
+UDP: 192.168.1.110 : 22672 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 22672
+--------
+服务器端接收数据
+--------------------------------
+192.168.1.110:58422 <--- 59.151.32.36:80 : 80 : 1 : 0.000000
+11581158
+fuck11581158
+--------------------------------
+192.168.1.110:58422 <--- 59.151.32.36:80 : 80 : 2 : 0.000000
+13011301
+服务器端接收数据
+--------------------------------
+192.168.1.110:58423 <--- 59.151.32.36:80 : 80 : 1 : 0.000000
+11621162
+fuck11621162
+--------------------------------
+192.168.1.110:58423 <--- 59.151.32.36:80 : 80 : 2 : 0.000000
+12791279
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 17692 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 17692
+--------
+服务器端接收数据
+--------------------------------
+192.168.1.110:37555 <--- 74.125.235.198:443 : 443 : 1 : 0.000000
+194194
+fuck194194
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 25598 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 25598
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.110 : 4836 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 4836
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 18328 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 18328
+--------
+over
+over
+UDP: 192.168.1.110 : 30167 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 30167
+--------
+UDP: 192.168.1.110 : 4353 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 11870 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.110 : 6688 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 41847 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 35821 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 4353
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 41847
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 11870
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 6688
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 35821
+--------
+UDP: 192.168.1.110 : 10441 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 38125 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 42984 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 10441
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 38125
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 42984
+--------
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 11372 ---> 192.168.1.1 : 53
+--------
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 11372
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 55855 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 45220 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 26936 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 55855
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 45220
+--------
+UDP: 192.168.1.110 : 55360 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 65330 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 55360
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 65330
+--------
+UDP: 192.168.1.110 : 38896 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 38896
+--------
+over
+over
+UDP: 192.168.1.110 : 13987 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 13987
+--------
+over
+UDP: 192.168.1.110 : 15644 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 15644
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 26936
+--------
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 49285 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 30920 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 49285
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 30920
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 50762 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 50762
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 16193 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 60508 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 16193
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 60508
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 30885 ---> 192.168.1.1 : 53
+--------
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 30885
+--------
+UDP: 192.168.1.110 : 57635 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 57635
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 28714 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 28714
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 40723 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 40723
+--------
+UDP: 192.168.1.110 : 9716 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 10056 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 35923 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 11165 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 28543 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 34005 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 10056
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 9716
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 35923
+--------
+UDP: 192.168.1.110 : 24928 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 28797 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 11165
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 28543
+--------
+UDP: 192.168.1.110 : 58360 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 33138 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 24928
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 28797
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 58360
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 33138
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 49402 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 4941 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 30295 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 30295
+--------
+UDP: 192.168.1.110 : 64495 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 64495
+--------
+UDP: 192.168.1.110 : 65435 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 65435
+--------
+UDP: 192.168.1.110 : 12665 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 12665
+--------
+UDP: 192.168.1.110 : 46599 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 49402
+--------
+UDP: 192.168.1.110 : 64041 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 4941
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 46599
+--------
+over
+over
+UDP: 192.168.1.110 : 30253 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 64041
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 30253
+--------
+UDP: 192.168.1.110 : 9348 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 9348
+--------
+UDP: 192.168.1.110 : 35720 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 35720
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 34005 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 34005
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.110 : 2252 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 2252
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+over
+over
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 44144 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 22347 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 13576 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 44144
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 22347
+--------
+UDP: 192.168.1.110 : 11162 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 11162
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 13576
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 16383 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 16383
+--------
+over
+UDP: 192.168.1.110 : 38569 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 38569
+--------
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:46128 <--- 60.211.253.134:443 : 443 : 1 : 0.000000
+187187
+fuck187187
+over
+over
+over
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:46128 <--- 60.211.253.134:443 : 443 : 1 : 0.000000
+14401440
+--------------------------------
+192.168.1.110:46128 <--- 60.211.253.134:443 : 443 : 1 : 0.000000
+14402880
+--------------------------------
+192.168.1.110:46128 <--- 60.211.253.134:443 : 443 : 2 : 0.000000
+342914
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:46128 <--- 60.211.253.134:443 : 443 : 3 : 0.000000
+214401
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:46128 <--- 60.211.253.134:443 : 443 : 4 : 0.000000
+2663180
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 46386 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 46386
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 39467 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 39467
+--------
+UDP: 192.168.1.110 : 64816 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 64816
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 39637 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 59417 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 59417
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 39637
+--------
+UDP: 192.168.1.110 : 45871 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 45871
+--------
+over
+over
+over
+UDP: 192.168.1.110 : 39270 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 39270
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 24212 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 24212
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 17944 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 17944
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 53479 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 53479
+--------
+UDP: 192.168.1.110 : 45042 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 45042
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 63852 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 63852
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.106 : 137 ---> 192.168.1.255 : 137
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 33996 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 33996
+--------
+over
+over
+over
+over
+over
+over
+over
+UDP: 0.0.0.0 : 68 ---> 255.255.255.255 : 67
+--------
+UDP: 192.168.1.1 : 67 ---> 255.255.255.255 : 68
+--------
+UDP: 0.0.0.0 : 68 ---> 255.255.255.255 : 67
+--------
+over
+UDP: 192.168.1.1 : 67 ---> 255.255.255.255 : 68
+--------
+UDP: 192.168.1.110 : 50170 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 50170
+--------
+over
+UDP: 192.168.1.110 : 61403 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 61403
+--------
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 3389 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 3389
+--------
+UDP: 192.168.1.110 : 47098 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 47098
+--------
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 36461 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 36461
+--------
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 21330 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 21330
+--------
+UDP: 192.168.1.110 : 46481 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 46481
+--------
+over
+over
+over
+UDP: 192.168.1.110 : 5353 ---> 224.0.0.251 : 5353
+--------
+over
+UDP: 192.168.1.110 : 7221 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 7221
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 32293 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 32293
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.110 : 9099 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 9099
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 0.0.0.0 : 68 ---> 255.255.255.255 : 67
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+over
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 68 ---> 255.255.255.255 : 67
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+over
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+over
+over
+over
+over
+UDP: 192.168.1.110 : 12226 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 12226
+--------
+over
+UDP: 192.168.1.110 : 55525 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 55525
+--------
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 44538 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 44538
+--------
+over
+UDP: 192.168.1.110 : 6864 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 6864
+--------
+over
+over
+over
+UDP: 192.168.1.110 : 26868 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 26868
+--------
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 22207 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 22207
+--------
+UDP: 192.168.1.110 : 30504 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 30504
+--------
+over
+over
+UDP: 192.168.1.104 : 3601 ---> 255.255.255.255 : 3600
+--------
+over
+over
+UDP: 192.168.1.104 : 3601 ---> 255.255.255.255 : 3600
+--------
+UDP: 192.168.1.104 : 3601 ---> 255.255.255.255 : 3600
+--------
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63423 ---> 255.255.255.255 : 9200
+--------
+over
+over
+UDP: 192.168.1.104 : 68 ---> 255.255.255.255 : 67
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+over
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+UDP: 192.168.1.104 : 137 ---> 192.168.1.255 : 137
+--------
+over
+over
+over
+UDP: 192.168.1.104 : 63808 ---> 255.255.255.255 : 9200
+--------
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 45899 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 45899
+--------
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63809 ---> 255.255.255.255 : 9200
+--------
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63810 ---> 255.255.255.255 : 9200
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63811 ---> 255.255.255.255 : 9200
+--------
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63812 ---> 255.255.255.255 : 9200
+--------
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63813 ---> 255.255.255.255 : 9200
+--------
+over
+over
+UDP: 192.168.1.110 : 14614 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 14614
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63814 ---> 255.255.255.255 : 9200
+--------
+UDP: 192.168.1.104 : 63815 ---> 255.255.255.255 : 9200
+--------
+UDP: 192.168.1.110 : 33146 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 33146
+--------
+over
+over
+over
+UDP: 192.168.1.110 : 15404 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 8971 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 3996 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 8971
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 15404
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 3996
+--------
+UDP: 192.168.1.110 : 24279 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 24279
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 9062 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 9062
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 22515 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 22515
+--------
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 20582 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 20582
+--------
+UDP: 192.168.1.110 : 38122 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 38122
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 13242 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 13242
+--------
+over
+UDP: 192.168.1.110 : 18748 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 43846 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 18748
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 43846
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 19130 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 19130
+--------
+UDP: 192.168.1.110 : 63880 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 63880
+--------
+over
+over
+over
+over
+UDP: 192.168.1.110 : 55673 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 64902 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 64902
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 55673
+--------
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 17902 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 17902
+--------
+UDP: 192.168.1.110 : 11970 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 11970
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:38022 <--- 152.19.134.40:57578 : 57578 : 1 : 0.000000
+386386
+over
+UDP: 192.168.1.110 : 33971 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 33971
+--------
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:55220 <--- 74.125.235.195:443 : 443 : 1 : 0.000000
+194194
+fuck194194
+over
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:55220 <--- 74.125.235.195:443 : 443 : 1 : 0.000000
+14301430
+--------------------------------
+192.168.1.110:55220 <--- 74.125.235.195:443 : 443 : 1 : 0.000000
+14302860
+--------------------------------
+192.168.1.110:55220 <--- 74.125.235.195:443 : 443 : 2 : 0.000000
+10373897
+服务器端接收数据
+--------------------------------
+192.168.1.110:55220 <--- 74.125.235.195:443 : 443 : 3 : 0.000000
+326520
+服务器端接收数据
+--------------------------------
+192.168.1.110:55220 <--- 74.125.235.195:443 : 443 : 4 : 0.000000
+85605
+服务器端接收数据
+--------------------------------
+192.168.1.110:55220 <--- 74.125.235.195:443 : 443 : 5 : 0.000000
+85690
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 45047 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 45047
+--------
+UDP: 192.168.1.110 : 9769 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 33594 ---> 192.168.1.1 : 53
+--------
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 9769
+--------
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 33594
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:57524 <--- 184.50.93.186:443 : 443 : 1 : 0.000000
+403403
+fuck403403
+--------------------------------
+192.168.1.110:57524 <--- 184.50.93.186:443 : 443 : 2 : 0.000000
+161161
+服务器端接收数据
+--------------------------------
+192.168.1.110:57524 <--- 184.50.93.186:443 : 443 : 3 : 0.000000
+75478
+服务器端接收数据
+--------------------------------
+192.168.1.110:57524 <--- 184.50.93.186:443 : 443 : 3 : 0.000000
+14281906
+服务器端接收数据
+--------------------------------
+192.168.1.110:57524 <--- 184.50.93.186:443 : 443 : 3 : 0.000000
+14283334
+服务器端接收数据
+--------------------------------
+192.168.1.110:57524 <--- 184.50.93.186:443 : 443 : 4 : 0.000000
+6854019
+服务器端接收数据
+--------------------------------
+192.168.1.110:57524 <--- 184.50.93.186:443 : 443 : 5 : 0.000000
+3254344
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 19017 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 19017
+--------
+服务器端接收数据
+--------------------------------
+192.168.1.110:47699 <--- 96.7.100.185:443 : 443 : 1 : 0.000000
+183183
+fuck183183
+--------------------------------
+192.168.1.110:47699 <--- 96.7.100.185:443 : 443 : 1 : 0.000000
+14281428
+--------------------------------
+192.168.1.110:47699 <--- 96.7.100.185:443 : 443 : 1 : 0.000000
+14282856
+--------------------------------
+192.168.1.110:47699 <--- 96.7.100.185:443 : 443 : 2 : 0.000000
+12404096
+--------------------------------
+192.168.1.110:47699 <--- 96.7.100.185:443 : 443 : 3 : 0.000000
+3474443
+服务器端接收数据
+--------------------------------
+192.168.1.110:47699 <--- 96.7.100.185:443 : 443 : 4 : 0.000000
+342525
+over
+--------------------------------
+192.168.1.110:47699 <--- 96.7.100.185:443 : 443 : 5 : 0.000000
+2504693
+over
+over
+over
+UDP: 192.168.1.110 : 16392 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 45834 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 16392
+--------
+over
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 45834
+--------
+over
+over
+UDP: 192.168.1.110 : 21625 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 21625
+--------
+服务器端接收数据
+--------------------------------
+192.168.1.110:41131 <--- 184.50.93.117:443 : 443 : 1 : 0.000000
+186186
+fuck186186
+over
+--------------------------------
+192.168.1.110:41131 <--- 184.50.93.117:443 : 443 : 1 : 0.000000
+14281428
+--------------------------------
+192.168.1.110:41131 <--- 184.50.93.117:443 : 443 : 1 : 0.000000
+14282856
+--------------------------------
+192.168.1.110:41131 <--- 184.50.93.117:443 : 443 : 2 : 0.000000
+12404096
+--------------------------------
+192.168.1.110:41131 <--- 184.50.93.117:443 : 443 : 3 : 0.000000
+13185414
+服务器端接收数据
+--------------------------------
+192.168.1.110:41131 <--- 184.50.93.117:443 : 443 : 4 : 0.000000
+342528
+over
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:55131 <--- 137.116.237.228:443 : 443 : 1 : 0.000000
+189189
+fuck189189
+over
+over
+over
+--------------------------------
+192.168.1.110:55131 <--- 137.116.237.228:443 : 443 : 1 : 0.000000
+14281428
+--------------------------------
+192.168.1.110:55131 <--- 137.116.237.228:443 : 443 : 1 : 0.000000
+14282856
+--------------------------------
+192.168.1.110:55131 <--- 137.116.237.228:443 : 443 : 1 : 0.000000
+14284284
+--------------------------------
+192.168.1.110:55131 <--- 137.116.237.228:443 : 443 : 2 : 0.000000
+944378
+服务器端接收数据
+--------------------------------
+192.168.1.110:55131 <--- 137.116.237.228:443 : 443 : 3 : 0.000000
+342531
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:55131 <--- 137.116.237.228:443 : 443 : 4 : 0.000000
+754453
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 35675 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 35675
+--------
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:35765 <--- 60.211.253.134:80 : 80 : 1 : 0.000000
+507507
+fuck507507
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:35765 <--- 60.211.253.134:80 : 80 : 1 : 0.000000
+14401440
+--------------------------------
+192.168.1.110:35765 <--- 60.211.253.134:80 : 80 : 1 : 0.000000
+14402880
+--------------------------------
+192.168.1.110:35765 <--- 60.211.253.134:80 : 80 : 1 : 0.000000
+14404320
+--------------------------------
+192.168.1.110:35765 <--- 60.211.253.134:80 : 80 : 1 : 0.000000
+14405760
+--------------------------------
+192.168.1.110:35765 <--- 60.211.253.134:80 : 80 : 2 : 0.000000
+9136673
+over
+over
+over
+over
+UDP: 192.168.1.110 : 2054 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 18379 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 18379
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 2054
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 48151 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 54617 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 40391 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 40391
+--------
+UDP: 192.168.1.110 : 39783 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 39783
+--------
+over
+over
+UDP: 192.168.1.110 : 38583 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 38583
+--------
+UDP: 192.168.1.110 : 29455 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 29455
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 48151
+--------
+UDP: 192.168.1.110 : 19123 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 19123
+--------
+UDP: 192.168.1.110 : 43932 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 43932
+--------
+UDP: 192.168.1.110 : 43750 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 43750
+--------
+UDP: 192.168.1.110 : 55125 ---> 192.168.1.1 : 53
+--------
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 55125
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 54617
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 59278 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 59278
+--------
+服务器端接收数据
+--------------------------------
+192.168.1.110:35037 <--- 61.167.56.48:80 : 80 : 1 : 0.000000
+959959
+fuck959959
+--------------------------------
+192.168.1.110:35037 <--- 61.167.56.48:80 : 80 : 2 : 0.000000
+264264
+over
+UDP: 192.168.1.110 : 36203 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 36203
+--------
+服务器端接收数据
+--------------------------------
+192.168.1.110:35042 <--- 61.167.56.48:80 : 80 : 1 : 0.000000
+957957
+fuck957957
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:35043 <--- 61.167.56.48:80 : 80 : 1 : 0.000000
+959959
+fuck959959
+--------------------------------
+192.168.1.110:35043 <--- 61.167.56.48:80 : 80 : 2 : 0.000000
+264264
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 39560 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 63521 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 39560
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 63521
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:58623 <--- 61.135.162.115:80 : 80 : 1 : 0.000000
+948948
+fuck948948
+over
+over
+over
+over
+over
+over
+over
+--------------------------------
+192.168.1.110:58623 <--- 61.135.162.115:80 : 80 : 2 : 0.000000
+192192
+over
+--------------------------------
+192.168.1.110:58623 <--- 61.135.162.115:80 : 80 : 3 : 0.000000
+5197
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 13580 ---> 192.168.1.1 : 53
+--------
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 13580
+--------
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:56843 <--- 96.16.169.165:443 : 443 : 1 : 0.000000
+188188
+fuck188188
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:39686 <--- 70.39.191.143:80 : 80 : 1 : 0.000000
+548548
+fuck548548
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 20479 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 20479
+--------
+服务器端接收数据
+--------------------------------
+192.168.1.110:40176 <--- 202.108.5.135:80 : 80 : 1 : 0.000000
+447447
+fuck447447
+服务器端接收数据
+--------------------------------
+192.168.1.110:50035 <--- 123.125.115.43:80 : 80 : 1 : 0.000000
+10301030
+fuck10301030
+over
+--------------------------------
+192.168.1.110:50035 <--- 123.125.115.43:80 : 80 : 2 : 0.000000
+289289
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 3367 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 3367
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.104 : 63816 ---> 255.255.255.255 : 9200
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 49984 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 63380 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 63380
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 49984
+--------
+UDP: 192.168.1.110 : 9044 ---> 192.168.1.1 : 53
+--------
+over
+over
+over
+over
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 9044
+--------
+UDP: 192.168.1.110 : 47056 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 47056
+--------
+over
+over
+服务器端接收数据
+--------------------------------
+192.168.1.110:50298 <--- 61.54.29.9:843 : 843 : 1 : 0.000000
+2323
+fuck2323
+--------------------------------
+192.168.1.110:50298 <--- 61.54.29.9:843 : 843 : 2 : 0.000000
+9595
+服务器端接收数据
+--------------------------------
+192.168.1.110:59758 <--- 61.54.29.9:443 : 443 : 1 : 0.000000
+183183
+fuck183183
+--------------------------------
+192.168.1.110:59758 <--- 61.54.29.9:443 : 443 : 2 : 0.000000
+129129
+服务器端接收数据
+--------------------------------
+192.168.1.110:59758 <--- 61.54.29.9:443 : 443 : 3 : 0.000000
+161344
+--------------------------------
+192.168.1.110:59758 <--- 61.54.29.9:443 : 443 : 4 : 0.000000
+183312
+服务器端接收数据
+--------------------------------
+192.168.1.110:59758 <--- 61.54.29.9:443 : 443 : 5 : 0.000000
+69413
+--------------------------------
+192.168.1.110:59758 <--- 61.54.29.9:443 : 443 : 6 : 0.000000
+30342
+服务器端接收数据
+--------------------------------
+192.168.1.110:59758 <--- 61.54.29.9:443 : 443 : 7 : 0.000000
+6419
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+UDP: 192.168.1.110 : 21504 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 19721 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.110 : 21504 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 21504
+--------
+over
+over
+UDP: 192.168.1.110 : 19721 ---> 192.168.1.1 : 53
+--------
+UDP: 192.168.1.1 : 53 ---> 192.168.1.110 : 19721
+--------
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over
+over

@@ -297,8 +297,12 @@ add_new_tcp(struct tcphdr * this_tcphdr, struct ip * this_iphdr)
   a_tcp->server.state = TCP_CLOSE;
   a_tcp->next_node = tolink;
   a_tcp->prev_node = 0;
-  a_tcp->s_v.serv_port = addr.dest;
+
+  a_tcp->s_v.serv_port = ntohs(this_tcphdr->th_dport);
   a_tcp->s_v.now_time = nids_params.time_stamp;
+  a_tcp->s_v.flags = this_tcphdr->th_flags;
+  a_tcp->s_v.dt_bg = 0;
+
   if (tolink)
     tolink->prev_node = a_tcp;
   tcp_stream_table[hash_index] = a_tcp;
@@ -759,7 +763,7 @@ process_tcp(u_char * data, int skblen)
     if ((this_tcphdr->th_flags & TH_SYN) &&
 	!(this_tcphdr->th_flags & TH_ACK) &&
 	!(this_tcphdr->th_flags & TH_RST))
-      add_new_tcp(this_tcphdr, this_iphdr);//添加新的tcp流
+	    add_new_tcp(this_tcphdr, this_iphdr);//添加新的tcp流
     return;
   }
   if (from_client) {
@@ -784,7 +788,8 @@ process_tcp(u_char * data, int skblen)
     a_tcp->server.ack_seq = ntohl(this_tcphdr->th_ack);
     a_tcp->server.window = ntohs(this_tcphdr->th_win);
 
-    //added by murphy 下面4行是初始化push位个数的
+    //added by murphy 下面是初始化push位个数的
+    a_tcp->s_v.flags = this_tcphdr->th_flags;
     if((this_tcphdr->th_flags & TH_PUSH))
 	    a_tcp->s_v.push_pkts_serv = 1;
     else
@@ -849,6 +854,9 @@ process_tcp(u_char * data, int skblen)
 	a_tcp->client.state = TCP_ESTABLISHED;
 	a_tcp->client.ack_seq = ntohl(this_tcphdr->th_ack);
     	a_tcp->s_v.now_time = nids_params.time_stamp;
+    	a_tcp->s_v.flags = this_tcphdr->th_flags;
+    	a_tcp->s_v.len_third = datalen;
+	a_tcp->s_v.pkt_number = 3;
 	{
 	  struct proc_node *i;
 	  struct lurker_node *j;
@@ -915,6 +923,7 @@ process_tcp(u_char * data, int skblen)
 
       a_tcp->nids_state = NIDS_CLOSE;
       a_tcp->s_v.now_time = nids_params.time_stamp;
+      a_tcp->s_v.flags = this_tcphdr->th_flags;
       for (i = a_tcp->listeners; i; i = i->next)
 	(i->item) (a_tcp, &i->data);
       nids_free_tcp_stream(a_tcp);
@@ -925,6 +934,7 @@ process_tcp(u_char * data, int skblen)
   if (datalen + (this_tcphdr->th_flags & TH_FIN) > 0)
   {
     a_tcp->s_v.now_time = nids_params.time_stamp;
+    a_tcp->s_v.flags = this_tcphdr->th_flags;
 	  //将数据更新到接收方缓冲区
     tcp_queue(a_tcp, this_tcphdr, snd, rcv,
 	      (char *) (this_tcphdr) + 4 * this_tcphdr->th_off,
