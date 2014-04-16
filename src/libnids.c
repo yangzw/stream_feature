@@ -240,7 +240,8 @@ void nids_pcap_handler(u_char * par, struct pcap_pkthdr *hdr, u_char * data)
      */
     if (NULL != nids_tcp_timeouts)
       tcp_check_timeouts(&hdr->ts);
-    nids_params.time_stamp = (double)hdr->ts.tv_sec*1000000 + (double)hdr->ts.tv_usec;
+    //nids_params.time_stamp = (double)(hdr->ts.tv_sec)*1000 + (double)(hdr->ts.tv_usec);
+    nids_params.time_stamp = (double)(hdr->ts.tv_usec);
 
     nids_last_pcap_header = hdr;
     nids_last_pcap_data = data;
@@ -476,7 +477,7 @@ static void init_procs()
     udp_procs = 0;
 }
 
-void nids_register_udp(void (*x))
+void nids_register_udp(void (*x)(struct tuple4 *, char *, int, struct ip *))
 {
     register_callback(&udp_procs, x);
 }

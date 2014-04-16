@@ -13,6 +13,13 @@ extern "C"{
 #define TH_PUSH 0x08
 using namespace std;
 
+extern "C"{
+void nids_register_tcp(void (*x)(struct tcp_stream *, void**));
+void nids_register_udp(void (*x)(struct tuple4 *, char *, int, struct ip *));
+int nids_init();
+int nids_run();
+}
+
 struct ndpi_flag{
 	string src;
 	string dst;
@@ -68,6 +75,7 @@ void tcp_protocol_callback(struct tcp_stream *tcp_connection, void **arg)
     //char content[65535];
     //char content_urgent[65535];
     struct tuple4 ip_and_port = tcp_connection->addr;
+    /*
     // 获取TCP连接的地址和端口对
     strcpy(address_string, inet_ntoa(*((struct in_addr*) &(ip_and_port.saddr))));
     // 获取源地址 
@@ -83,6 +91,7 @@ void tcp_protocol_callback(struct tcp_stream *tcp_connection, void **arg)
     sprintf(address_string + strlen(address_string), " : %f", tcp_connection->s_v.now_time);
     sprintf(address_string + strlen(address_string), " : %d", tcp_connection->s_v.flags);
     strcat(address_string, "\n");
+    */
     switch (tcp_connection->nids_state) // 判断LIBNIDS的状态 
     {
         case NIDS_JUST_EST:
@@ -114,9 +123,10 @@ void tcp_protocol_callback(struct tcp_stream *tcp_connection, void **arg)
 		    if((tcp_connection->s_v.flags & TH_PUSH))
 			    tcp_connection->s_v.push_pkts_serv += 1;
 		    if(tcp_connection->s_v.pkt_number > win_size)
-		    {
-			    printf("over\n");
 			    return ;
+		    else if(tcp_connection->s_v.pkt_number == win_size)
+		    {
+			    tcp_connection->s_v.pkt_number++;
 		    }
 		    else
 			    tcp_connection->s_v.pkt_number++;
@@ -165,7 +175,7 @@ void tcp_protocol_callback(struct tcp_stream *tcp_connection, void **arg)
                     printf("--------------------------------\n");
                     printf("%s", address_string);
 		   
-		    cout << hlf->count_new << hlf->count << endl;
+		    cout << hlf->count_new  << " " << tcp_connection->s_v.now_time << " " << hlf->count << endl;
                 }
                 else
                 {
@@ -188,7 +198,8 @@ void tcp_protocol_callback(struct tcp_stream *tcp_connection, void **arg)
                     printf("--------------------------------\n");
                     printf("%s", address_string);
 		   
-		    cout << hlf->count_new << hlf->count << endl;
+		    cout << hlf->count_new  << " " << hlf->count << "fuck" << endl;
+		    
 		    if(!tcp_connection->s_v.dt_bg)
 		    {
 			    tcp_connection->s_v.fir_plength_clnt = hlf->count_new;
@@ -287,7 +298,7 @@ int main()
 	//filename = "/home/yang/a.cap";
 	//cout << "输入流量包" << endl;
 	//cin >> filename;
-	nids_params.filename = "/home/yang/a.cap";
+	nids_params.filename = "try.cap";
 	//cout << "输入观察窗口大小" << endl;
 	//cin >> win_size;
 	win_size = 6;

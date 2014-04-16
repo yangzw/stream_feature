@@ -25,7 +25,7 @@ PCAPLIB		= -lpcap
 LNET_CFLAGS	= -D_BSD_SOURCE -D__BSD_SOURCE -D__FAVOR_BSD -DHAVE_NET_ETHERNET_H
 LNETLIB		= -lnet
 
-LIBS_CFLAGS	= $(PCAP_CFLAGS) $(LNET_CFLAGS) -I/usr/include/glib-2.0 -I/usr/lib/i386-linux-gnu/glib-2.0/include   -pthread -I/usr/include/glib-2.0 -I/usr/lib/i386-linux-gnu/glib-2.0/include  
+LIBS_CFLAGS	= $(PCAP_CFLAGS) $(LNET_CFLAGS) -I/usr/include/glib-2.0 -I/usr/lib/i386-linux-gnu/glib-2.0/include -pthread -I/usr/include/glib-2.0 -I/usr/lib/i386-linux-gnu/glib-2.0/include -lglib-2.0  
 LIBS		= -lgthread-2.0 -lnsl  -lglib-2.0   -pthread -lgthread-2.0 -lrt -lglib-2.0  
 RANLIB		= ranlib
 INSTALL		= /usr/bin/install -c

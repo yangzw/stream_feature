@@ -64,7 +64,7 @@ struct stream_v
 {
 	u_int flags;
 	int len_third;
-	int dt_bg;//标示是否结束三次握手
+	int dt_bg;//标示结束三次握手
 	int push_pkts_serv;
 	//int init_win_bytes_clnt;
 	//int init_win_bytes_serv;
@@ -165,11 +165,11 @@ void nids_register_ip_frag (void (*));
 void nids_unregister_ip_frag (void (*));
 void nids_register_ip (void (*));
 void nids_unregister_ip (void (*));
-//void nids_register_tcp (void (*));
-void nids_register_tcp(void (*)(tcp_stream*, void**));
-void nids_register_udp(void (*)(tuple4*, char*, int, ip*));
+//void nids_register_tcp (void (*x));
+void nids_register_tcp(void (*)(struct tcp_stream *, void**));
+void nids_register_udp(void (*)(struct tuple4 *, char *, int, struct ip *));
 void nids_unregister_tcp (void (*x));
-//void nids_register_udp (void (*));
+//void nids_register_udp (void (*x));
 void nids_unregister_udp (void (*));
 void nids_killtcp (struct tcp_stream *);
 void nids_discard (struct tcp_stream *, int);

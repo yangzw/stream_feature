@@ -957,7 +957,7 @@ nids_discard(struct tcp_stream * a_tcp, int num)
 }
 
 void
-nids_register_tcp(void (*x))
+nids_register_tcp(void (*x)(struct tcp_stream *, void**))
 {
   register_callback(&tcp_procs, x);
 }
