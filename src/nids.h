@@ -64,12 +64,14 @@ struct stream_v
 {
 	u_int flags;
 	int len_third;
+	int datalen;
 	int dt_bg;//标示结束三次握手
 	int push_pkts_serv;
 	//int init_win_bytes_clnt;
 	//int init_win_bytes_serv;
-	//int arg_seg_size_serv;
-	//int act_data_pkt_clnt;
+	int arg_seg_size_serv;
+	int arg_seg_size_clnt;
+	int act_data_pkt_clnt;
 	u_int serv_port;
 	int fir_plength_clnt;
 	int fir_sec_diff_clnt;

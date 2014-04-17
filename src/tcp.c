@@ -856,7 +856,12 @@ process_tcp(u_char * data, int skblen)
     	a_tcp->s_v.now_time = nids_params.time_stamp;
     	a_tcp->s_v.flags = this_tcphdr->th_flags;
     	a_tcp->s_v.len_third = datalen;
-	a_tcp->s_v.pkt_number = 3;
+	a_tcp->s_v.pkt_number = 2;//从0开始
+	a_tcp->s_v.act_data_pkt_clnt = 0;
+	a_tcp->s_v.arg_seg_size_serv = 0;
+	a_tcp->s_v.arg_seg_size_clnt = datalen;
+	if(datalen >= 1)
+		a_tcp->s_v.act_data_pkt_clnt = 1;
 	{
 	  struct proc_node *i;
 	  struct lurker_node *j;
@@ -922,8 +927,11 @@ process_tcp(u_char * data, int skblen)
       struct lurker_node *i;
 
       a_tcp->nids_state = NIDS_CLOSE;
+
       a_tcp->s_v.now_time = nids_params.time_stamp;
       a_tcp->s_v.flags = this_tcphdr->th_flags;
+      a_tcp->s_v.datalen = datalen;
+
       for (i = a_tcp->listeners; i; i = i->next)
 	(i->item) (a_tcp, &i->data);
       nids_free_tcp_stream(a_tcp);
@@ -933,8 +941,11 @@ process_tcp(u_char * data, int skblen)
   //数据处理
   if (datalen + (this_tcphdr->th_flags & TH_FIN) > 0)
   {
+
     a_tcp->s_v.now_time = nids_params.time_stamp;
     a_tcp->s_v.flags = this_tcphdr->th_flags;
+    a_tcp->s_v.datalen = datalen;
+
 	  //将数据更新到接收方缓冲区
     tcp_queue(a_tcp, this_tcphdr, snd, rcv,
 	      (char *) (this_tcphdr) + 4 * this_tcphdr->th_off,
